@@ -1,6 +1,5 @@
 # Sentisify
 
-# Overview
 
 Sentisify is a Python-based sentence completion tool that predicts the next word based on user input and a predefined dataset. By analyzing word patterns, it suggests the most probable next words, providing users with an enhanced writing experience.
 
